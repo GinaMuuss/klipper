@@ -1,3 +1,5 @@
+# I DID NOT MERGE WITH A BRAIN, PLEASE DON'T USE
+
 # [ℹ️ New version available for testing](https://github.com/Desuuuu/klipper/discussions/74)
 
 Welcome to the Klipper project!
